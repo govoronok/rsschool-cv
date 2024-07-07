@@ -1,1 +1,1 @@
-https://govoronok.github.io/rsschool-cv/cv
+https://govoronok.github.io/rsschool-cv/
